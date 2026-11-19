@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "byteplus",
+  "binary": "byteplus-tos.exe",
+  "capability": "deploy",
+  "category": "storage",
+  "display_name_key": "plugin.byteplus-tos.name",
+  "icon": "byteplus.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "byteplus-tos",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
